@@ -1,0 +1,130 @@
+{
+    "Perovskite family": "CsFAMAPbBrI",
+    "Perovskite composition": "Cs0.05FA0.18MA0.79PbBr0.5I2.5",
+    "Band gap": 1.63,
+    "Dimensionality": "3D",
+    "A_ions": [
+        "Cs",
+        "FA",
+        "MA"
+    ],
+    "A_coef": [
+        0.05,
+        0.18,
+        0.79
+    ],
+    "A_SMILES": [
+        "[Cs+]",
+        "C(=[NH2+])N",
+        "C[NH3+]"
+    ],
+    "A_molecular_formula": [
+        "Cs+",
+        "CH5N2+",
+        "CH6N+"
+    ],
+    "A_IUPAC_names": [
+        "Cesium ion",
+        "Formamidinium",
+        "Methylammonium"
+    ],
+    "A_common_names": [
+        "Cesium ion",
+        "Formamidinium",
+        "Methylammonium"
+    ],
+    "A_cas_numbers": [
+        "18459-37-5",
+        "nan",
+        "17000-00-9"
+    ],
+    "A_parent_SMILES": [
+        "[Cs]",
+        "C(=N)N",
+        "CN"
+    ],
+    "A_parent_IUPAC_names": [
+        "Cesium",
+        "methanimidamide",
+        "methanamine"
+    ],
+    "A_parent_cas_numbers": [
+        "7440-46-2",
+        "463-52-5",
+        "74-89-5"
+    ],
+    "B_ions": [
+        "Pb"
+    ],
+    "B_coef": [
+        1
+    ],
+    "B_SMILES": [
+        "[Pb+2]"
+    ],
+    "B_molecular_formula": [
+        "Pb2+"
+    ],
+    "B_IUPAC_names": [
+        "Lead"
+    ],
+    "B_common_names": [
+        "Lead"
+    ],
+    "B_cas_numbers": [
+        "14280-50-3"
+    ],
+    "B_parent_SMILES": [
+        "[Pb]"
+    ],
+    "B_parent_IUPAC_names": [
+        "Lead"
+    ],
+    "B_parent_cas_numbers": [
+        "7439-92-1"
+    ],
+    "C_ions": [
+        "Br",
+        "I"
+    ],
+    "C_coef": [
+        0.5,
+        2.5
+    ],
+    "C_SMILES": [
+        "[Br-]",
+        "[I-]"
+    ],
+    "C_molecular_formula": [
+        "Br-",
+        "I-"
+    ],
+    "C_IUPAC_names": [
+        "Bromide",
+        "Iodide"
+    ],
+    "C_common_names": [
+        "Bromide",
+        "Iodide"
+    ],
+    "C_cas_numbers": [
+        "24959-67-9",
+        "20461-54-5"
+    ],
+    "C_parent_SMILES": [
+        "BrBr",
+        "II"
+    ],
+    "C_parent_IUPAC_names": [
+        "molecular bromine",
+        "molecular iodine"
+    ],
+    "C_parent_cas_numbers": [
+        "7726-95-6",
+        "7553-56-2"
+    ],
+    "Additives": [
+        "RbI",
+        "PbI2"
+    ]
+}
